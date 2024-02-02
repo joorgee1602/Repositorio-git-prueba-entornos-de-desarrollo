@@ -1,2 +1,2 @@
 # Repositorio-git-prueba-entornos-de-desarrollo
-primer repositorio
+instalacion y uso de github
